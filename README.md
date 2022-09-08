@@ -1,4 +1,4 @@
-## Timer extension for leetcode
+## Timer extension
 
 #### To run the chrome extension locally go to `chrome://extensions`
 
